@@ -12,6 +12,7 @@ I am currently an UOA student majoring in Data Science (2nd year)
 ### Hobbies
 > 1.Basketball
 > ---
-> 2.Video gam
+> 2.Video game
 > ---
 > 3.Hiking
+> ---
