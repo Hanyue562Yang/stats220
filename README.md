@@ -4,7 +4,7 @@
 *This is the repo content of what I've learnt in STATS220.*
 
 ## First mission
-The first mission is make a meme by R and show it with a markdown file on Github. You can check it in the[title](https://www.example.com) .
+The first mission is make a meme by R and show it with a markdown file on Github. You can check it in the [(https://hanyue562yang.github.io/stats220/)] .
 
 ## About me
 I am currently an UOA student majoring in Data Science (2nd year)
